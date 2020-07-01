@@ -8,7 +8,7 @@ body {
     font-family: sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background-image: url(/static/media/header.7c7df0a3.png);
+    background-image: url("https://cristianalmanzar.github.io/react-gif-app/static/media/header.7c7df0a3.png");
     background-size: cover;
     background-position: 50%;
     background-attachment: fixed;
